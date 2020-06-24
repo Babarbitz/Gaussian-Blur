@@ -16,4 +16,6 @@ Multi threaded times for fox.ppm between 0.5 - 0.7 seconds
 
 Both of those times are the real time values from running:
 
-"time ./hw4 50 fox.ppm out.ppm"
+```
+time ./hw4 50 fox.ppm out.ppm
+```
